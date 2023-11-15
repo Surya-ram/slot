@@ -152,6 +152,7 @@ Execute the program using runserver command.
 ```
 
 
+
 ## OUTPUT
 ![image](https://github.com/Surya-ram/slot/assets/122000311/c4a61db7-0dbb-4711-af29-c2dabfc22f8e)
 
