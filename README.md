@@ -152,10 +152,12 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+![image](https://github.com/Surya-ram/slot/assets/122000311/c4a61db7-0dbb-4711-af29-c2dabfc22f8e)
+
+
 ![Screenshot (10)](https://github.com/Surya-ram/slot/assets/122000311/5446f112-7689-47ef-983d-535e6c95267e)
 
 
-## HTML VALIDATOR
 
 
 ## RESULT
